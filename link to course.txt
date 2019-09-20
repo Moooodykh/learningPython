@@ -1,0 +1,5 @@
+\\gbw9061108.got.volvocars.net\PROJ\9413-Shr-vcc04900\Python
+
+
+C:\Users\mkharbou\AppData\Local\Continuum\Anaconda3\Library\bin\designer.exe
+Graphical tool 

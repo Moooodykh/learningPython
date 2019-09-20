@@ -1,0 +1,2 @@
+print('what ever') show you a statement
+print('*' * 10) show you 10 stars.
