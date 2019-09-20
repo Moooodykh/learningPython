@@ -4,4 +4,11 @@ show you a statement
 
 * print('*' * 10) 
 show you 10 stars.
-* 
+*  print(' Hi' +  name) 
+concatinating Hi with variable name 
+
+
+***************** variables **********************
+* input('')
+ask the user to enter information
+ 
